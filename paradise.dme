@@ -3296,4 +3296,5 @@
 #include "modularHispania\code\datums\uplink_items\uplink_traitor.dm"
 #include "modularHispania\code\game\items\weapons\batons.dm"
 #include "modularHispania\code\game\jobs\access_override.dm"
+#include "modularHispania\customItems\medal\peaceMedal.dm"
 // END_INCLUDE
